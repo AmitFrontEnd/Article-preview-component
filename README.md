@@ -3,7 +3,7 @@
 This is a simple **Frontend Mentor** challenge for practice. The project is fully responsive and built using HTML, CSS, and JavaScript. It includes an interactive article preview with a share button.
 
 ## 🚀 Live Demo
-🔗 [View Live Site](https://amitkumar1590.github.io/Article-preview-component/)
+🔗 [View Live Site](https://amitfrontend.github.io/Article-preview-component/)
 
 ## 📌 Technologies Used
 - HTML
